@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tushar Sarker</h1>
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 
+<img src="https://scontent.fdac4-1.fna.fbcdn.net/v/t39.30808-6/351355891_824670139375625_1407327263073081214_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGCTfbZiP7FCMHrPC-YyMh2IcUfQ8eumG8hxR9Dx66Yb2hRtbZNcZLyek7rBw1fz2ypCaPigdpnF_ihei0wpV_1&_nc_ohc=LEmyDS3rJ2cAb7cxolO&_nc_zt=23&_nc_ht=scontent.fdac4-1.fna&oh=00_AfBWz8h_Kh93XTsb9omYqkmrLX-gCi7Mgmj7tjZBdiX3eQ&oe=66169207">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-20&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-20" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushar-20" alt="tushar-20" /></a> </p>
