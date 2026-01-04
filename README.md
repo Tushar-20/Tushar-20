@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tushar Chandra Sarker</h1>
+<h1 align="center">Hi 👋, I'm Tushar Sarker</h1>
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 
 <img src="IMG-20230220-WA0017.jpg">
